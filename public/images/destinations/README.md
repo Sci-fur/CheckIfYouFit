@@ -1,0 +1,1 @@
+Nine original generated destination photographs are bundled in this folder. The other 13 country files are created by `npm run images:download`; their source URLs are listed in `lib/data.js` and `public/images/destination-manifest.json`. Destination cards include a remote fallback if a local file is not yet present.

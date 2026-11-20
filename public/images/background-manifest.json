@@ -1,0 +1,90 @@
+[
+  {
+    "file": "airport-hero.jpg",
+    "url": "https://images.unsplash.com/photo-1778385406327-54caa75374e2?auto=format&fit=crop&w=2400&q=85",
+    "photo": "Airplane at airport during a vibrant sunset",
+    "author": "Bernd Dittrich",
+    "source": "https://unsplash.com/photos/airplane-at-airport-during-a-vibrant-sunset-c4NALCgP51Y",
+    "use": "Homepage hero"
+  },
+  {
+    "file": "destinations-city.jpg",
+    "url": "https://images.unsplash.com/photo-1772339164384-e4eba87f08c0?auto=format&fit=crop&w=2400&q=85",
+    "photo": "London skyline with bridge and river at sunset",
+    "author": "Eduard Pretsi",
+    "source": "https://unsplash.com/photos/london-skyline-with-bridge-and-river-at-sunset-PUFgFo4PptI",
+    "use": "Homepage destinations section"
+  },
+  {
+    "file": "compare-city.jpg",
+    "url": "https://images.unsplash.com/photo-1771760171302-2d60b9a3576f?auto=format&fit=crop&w=2400&q=85",
+    "photo": "Sydney Opera House at sunset over the water",
+    "author": "Sung Jin Cho",
+    "source": "https://unsplash.com/photos/sydney-opera-house-at-sunset-over-the-water-M7xPhPxyV2Y",
+    "use": "Country comparison page"
+  },
+  {
+    "file": "campus-scholarships.jpg",
+    "url": "https://images.unsplash.com/photo-1760111085279-6c4b6d831acc?auto=format&fit=crop&w=2400&q=85",
+    "photo": "Students walking through a university campus archway",
+    "author": "Brelyn Bashrum",
+    "source": "https://unsplash.com/photos/students-walking-through-a-university-campus-archway-MUiv880yORo",
+    "use": "Scholarships page and homepage how-it-works section"
+  },
+  {
+    "file": "library-resources.jpg",
+    "url": "https://images.unsplash.com/photo-1530608031805-8e170c1b793a?auto=format&fit=crop&w=2400&q=85",
+    "photo": "The Long Room at Trinity College Old Library",
+    "author": "Jonathan Singer",
+    "source": "https://unsplash.com/photos/library-interioe-NgU7IJ5XuyY",
+    "use": "Resources page and homepage transparency section"
+  },
+  {
+    "file": "developers-workspace.jpg",
+    "url": "https://images.unsplash.com/photo-1781246212288-7fa538344718?auto=format&fit=crop&w=2400&q=85",
+    "photo": "Bangladeshi startup professionals collaborating around a conference table",
+    "author": "Ngital",
+    "source": "https://unsplash.com/photos/six-colleagues-collaborating-around-a-conference-table-with-laptops-RdEFWm0N84o",
+    "use": "Developers page"
+  },
+  {
+    "file": "study-workspace.jpg",
+    "url": "https://images.unsplash.com/photo-1782012505157-aca188bd6921?auto=format&fit=crop&w=2400&q=85",
+    "photo": "Modern laptop and keyboard on a home office desk",
+    "author": "Ritupon Baishya",
+    "source": "https://unsplash.com/photos/modern-laptop-and-keyboard-on-a-home-office-desk-vR2kup7Uyds",
+    "use": "Tools page and homepage tools section"
+  },
+  {
+    "file": "shortlist-students.jpg",
+    "url": "https://images.unsplash.com/photo-1767102060241-130cb9260718?auto=format&fit=crop&w=2400&q=85",
+    "photo": "People studying at tables in a modern library",
+    "author": "Fer Troulik",
+    "source": "https://unsplash.com/photos/people-studying-at-tables-in-a-modern-library-ct1NZSUSWUc",
+    "use": "University shortlist page"
+  },
+  {
+    "file": "about-community.jpg",
+    "url": "https://images.unsplash.com/photo-1741528804373-2bedeb308ce1?auto=format&fit=crop&w=2400&q=85",
+    "photo": "University building with students walking on a brick plaza",
+    "author": "Zoshua Colah",
+    "source": "https://unsplash.com/photos/university-building-with-students-walking-on-a-brick-plaza-s2GGXQ4oF8Y",
+    "use": "About page"
+  },
+  {
+    "file": "consultation-office.jpg",
+    "url": "https://images.unsplash.com/photo-1758873268705-bb756c95f26a?auto=format&fit=crop&w=2400&q=85",
+    "photo": "Colleagues collaborating at a modern office desk",
+    "author": "Vitaly Gariev",
+    "source": "https://unsplash.com/photos/colleagues-collaborating-at-a-modern-office-desk-0iTp1WNlMGc",
+    "use": "Contact page and homepage consultation CTA"
+  },
+  {
+    "file": "graduation-success.jpg",
+    "url": "https://images.unsplash.com/photo-1790339773800-d6f5581bd740?auto=format&fit=crop&w=2400&q=85",
+    "photo": "Students in light blue graduation caps and gowns at a ceremony",
+    "author": "Olek Buzunov",
+    "source": "https://unsplash.com/photos/students-in-graduation-caps-and-gowns-STw47GkJivE",
+    "use": "Eligibility result panel"
+  }
+]
